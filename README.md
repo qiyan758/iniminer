@@ -1,9 +1,3 @@
-下面是实现一键节点自动化脚本的完整代码以及说明文档（README 文件），供您发布到 GitHub 上。
-
-### README 文件
-
-以下是与脚本配套的 README 文件内容：
-
 ```markdown
 # INI Miner 一键脚本
 
@@ -20,8 +14,8 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone <仓库链接>
-cd <仓库名>
+git clone https://github.com/qiyan758/iniminer.git
+cd 
 ```
 
 ### 2. 给脚本赋予可执行权限
