@@ -1,18 +1,18 @@
 ```markdown
-# INI Miner 一键脚本
+INI Miner 一键脚本
 
 该脚本旨在为用户简化在 Linux 系统上配置并运行 INI Miner 的流程，通过菜单交互完成下载、配置和挖矿操作。
-
-## 功能
+功能
 1. 自动下载矿工软件。
 2. 轻松配置钱包地址、矿工名称及 CPU 核心数。
 3. 启动挖矿。
 
----
 
-## 使用说明
 
-### 1. 克隆仓库
+
+使用说明
+
+###1. 克隆仓库
 ```bash
 git clone https://github.com/qiyan758/iniminer.git
 cd iniminer
