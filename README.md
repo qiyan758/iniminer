@@ -15,7 +15,7 @@
 ### 1. 克隆仓库
 ```bash
 git clone https://github.com/qiyan758/iniminer.git
-cd 
+cd iniminer
 ```
 
 ### 2. 给脚本赋予可执行权限
