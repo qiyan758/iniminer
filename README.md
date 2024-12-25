@@ -77,4 +77,3 @@ Starting mining with wallet: 0xYourWalletAddress, worker: MyWorker, using 2 core
 如有问题，请在 GitHub 提交 Issue 或联系管理员。
 ```
 
-将脚本和 README 文件上传至 GitHub，即可方便用户使用。
